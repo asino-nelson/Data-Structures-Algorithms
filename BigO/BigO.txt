@@ -1,0 +1,9 @@
+BigO Notation is used to analyze the efficiency of an algorithm as its input approaches infinity.
+
+O(1)             *Best
+O(log n)           |
+O(n)               |
+O(n log n)         |
+O(n^2)             |
+O(2^n)             |
+O(n!)            *Worst
